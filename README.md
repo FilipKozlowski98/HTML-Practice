@@ -1,2 +1,2 @@
-# HTML-Tutorial
+# HTML-Practice
 HTML basics
